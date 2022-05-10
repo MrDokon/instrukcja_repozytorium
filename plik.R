@@ -9,4 +9,8 @@
 
 #przykład konfiktu - wprowadzę zmianę zdalnie i nie dam pull lokalnie
 
+<<<<<<< HEAD
 #zmiana lokalna
+=======
+#zmiana zdalne - commit
+>>>>>>> 0450ef549a118f8b838fb432863c32b09d07a18b

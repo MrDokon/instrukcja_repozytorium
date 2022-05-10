@@ -6,3 +6,5 @@
 # jeśli wprowadzimy jakieś zmiany w zdalnym repozytorium lub repozytorium połączonym z naszym w innym miejscu, zawsze należy dać pull z poziomu rstudio. 
 
 #czasami pojawiają się konflikty - występują, gdy robobimy coś w złej kolejności
+
+#przykład konfiktu - wprowadzę zmianę zdalnie i nie dam pull lokalnie

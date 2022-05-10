@@ -9,4 +9,4 @@
 
 #przykład konfiktu - wprowadzę zmianę zdalnie i nie dam pull lokalnie
 
-
+#zmiana zdalne - commit

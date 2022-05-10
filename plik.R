@@ -8,3 +8,5 @@
 #czasami pojawiają się konflikty - występują, gdy robobimy coś w złej kolejności
 
 #przykład konfiktu - wprowadzę zmianę zdalnie i nie dam pull lokalnie
+
+
